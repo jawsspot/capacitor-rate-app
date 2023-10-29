@@ -1,2 +1,2 @@
-# capasitor-rate-app
+# capacitor-rate-app
 capacitor plugin for customized avaluation  application
